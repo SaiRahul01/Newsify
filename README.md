@@ -14,6 +14,7 @@ This is a React App to fetch and display News on your Browser, It fetches latest
 3. In the terminal (in the directory of the project) execute : `npm start`
 4. It redirects automatically to local host 3000 on your default browser, if not do it manually<br>
  ##
-NOTE: If you see an error<`react-scripts is not recognized as an internal or external command, operable program or batch file` on running `npm start`, then run the command `npm install react-scripts` first  and then run `npm start`
+
 ##
+# 
 Thank You :)
