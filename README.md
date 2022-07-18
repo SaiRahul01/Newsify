@@ -2,6 +2,7 @@
 This is a React App to fetch and display News on your Browser, It fetches latest News based on 4 main categories: General, Business, Entertainment, Science and Sports.The API used is [NewsApi](https://newsapi.org/) , and ofcourse the news was limited. This App Would run on local host(3000), did not get deployed as the API would't allow to fetch news if deployed.
 
 
+
 ## Requirements to Run the  App
 1. Node.js 
 2. A Free account on [NewsApi](https://newsapi.org/)
